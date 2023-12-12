@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I am a Mechanical Engineering researcher with focus on Biomechanics.
-- Currently a member of the Integrated Musculo-Skeletal Biomechanics Research Group [IMSB](https://www.sheffield.ac.uk/imsb)
-- I enjoy photography. Find my work here [Photography Portfolio](https://wirestock.io/haivu)
+- Currently a member of the Integrated Musculo-Skeletal Biomechanics Research Group [IMSB](https://www.sheffield.ac.uk/imsb).
+- I take photos sometimes, [Photography Portfolio](https://wirestock.io/haivu).
 <!--
 **HaivuUK/HaivuUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
