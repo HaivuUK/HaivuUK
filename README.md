@@ -5,7 +5,7 @@
   - [Integrated Musculo-Skeletal Biomechanics Research Group (IMSB)](https://www.sheffield.ac.uk/imsb).
   - [INSIGNEO Insitute for In-Silico Medicine](https://www.sheffield.ac.uk/insigneo).
   
-- I take photos sometimes, [Photography Portfolio](https://wirestock.io/haivu).
+- I take photos sometimes | [Photography Portfolio](https://wirestock.io/haivu)
 <!--
 **HaivuUK/HaivuUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
