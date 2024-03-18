@@ -1,5 +1,6 @@
 ### Hi there 👋
 - I am a Mechanical Engineering researcher with focus on Biomechanics.
+- I currently work predominantly in Python and LaTeX
 
 - Currently a member of:
   - [Integrated Musculo-Skeletal Biomechanics Research Group (IMSB)](https://www.sheffield.ac.uk/imsb).
