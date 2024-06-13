@@ -4,7 +4,7 @@
 
 - Currently a member of:
   - [Integrated Musculo-Skeletal Biomechanics Research Group (IMSB)](https://www.sheffield.ac.uk/imsb).
-  - [INSIGNEO Insitute for In-Silico Medicine](https://www.sheffield.ac.uk/insigneo).
+  - [INSIGNEO Insitute for In-Silico Medicine](https://www.sheffield.ac.uk/insigneo). [INSIGNEO GitHUB](https://github.com/INSIGNEO)
   
 - I take photos sometimes | [Photography Portfolio](https://wirestock.io/haivu)
 <!--
