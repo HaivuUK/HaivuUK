@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - I am a Mechanical Engineering researcher with focus on Biomechanics.
 - I work predominantly in Python and LaTeX
 
@@ -7,6 +7,13 @@
   - [INSIGNEO Insitute for In-Silico Medicine](https://www.sheffield.ac.uk/insigneo). [INSIGNEO GitHUB](https://github.com/INSIGNEO)
   
 - I take photos sometimes | [Photography Portfolio](https://wirestock.io/haivu)
+
+## My Projects
+
+### [PyPeCT2S](https://github.com/INSIGNEO/PyPeCT2S) - Pythonic Paediatric Computed Tomography to Strength
+
+An extensible tool for automating the [CT2S Pipeline](https://ct2s.insigneo.org/ct2s/).
+
 <!--
 **HaivuUK/HaivuUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
