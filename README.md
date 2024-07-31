@@ -12,8 +12,17 @@
 
 ### [PyPeCT2S](https://github.com/INSIGNEO/PyPeCT2S) - Pythonic Paediatric Computed Tomography to Strength
 
-An extensible tool for automating the [CT2S Pipeline](https://ct2s.insigneo.org/ct2s/).
-
+<table>
+  <td>
+    <a href="https://github.com/INSIGNEO/PyPeCT2S">
+      <img src="https://github.com/INSIGNEO/PyPeCT2S/blob/main/icons/big_logo.svg" width="100%" alt="PyPeCT2S Logo">
+    </a>
+  </td>
+  <td>
+    An extensible tool for automating the <a href="https://ct2s.insigneo.org/ct2s/"><alt>CT2S Pipeline</alt></a>. Allowing users to build and drop in personal scripts that allow others to perform finite element method analysis with minimal training.
+    Time reductions of up to 70% have been seen from using the tool.
+  </td>
+</table>
 <!--
 **HaivuUK/HaivuUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
