@@ -1,12 +1,15 @@
 ## Hi there 👋
 - I am a Mechanical Engineering researcher with focus on Biomechanics.
 - I work predominantly in Python and LaTeX
+    - If you're an INSIGNEO member and would like INSIGNEO LaTeX / Beamer / reveal.js themes please let me know.
 
 - Currently a member of:
   - [Integrated Musculo-Skeletal Biomechanics Research Group (IMSB)](https://www.sheffield.ac.uk/imsb).
   - [INSIGNEO Insitute for In-Silico Medicine](https://www.sheffield.ac.uk/insigneo). [INSIGNEO GitHUB](https://github.com/INSIGNEO)
   
 - I take photos sometimes | [Photography Portfolio](https://wirestock.io/haivu)
+
+- I build custom keyboards | [Firmware Repository](https://github.com/HaivuUK/Keyboard_Software_Builds)
 
 ## My Projects
 
