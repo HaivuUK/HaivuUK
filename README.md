@@ -1,7 +1,10 @@
 ## Hi there 👋
 - I am a Mechanical Engineering researcher with focus on Biomechanics.
 - I work predominantly in Python and LaTeX
-    - If you're an INSIGNEO member and would like INSIGNEO LaTeX / Beamer / reveal.js themes please let me know.
+    - If you're an INSIGNEO member and would like INSIGNEO [LaTeX](https://www.latex-project.org/) / [Beamer](https://ctan.org/pkg/beamer) / [reveal.js](https://revealjs.com/) / [marp](https://marp.app/) themes please let me know. Available types listed below:
+        - LaTeX : Thesis | Presentation | Poster
+        - Reveal.js : Presentation
+        - Marp : Presentation
 
 - Currently a member of:
   - [Integrated Musculo-Skeletal Biomechanics Research Group (IMSB)](https://www.sheffield.ac.uk/imsb).
