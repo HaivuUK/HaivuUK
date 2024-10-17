@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I am a Mechanical Engineering researcher with focus on Biomechanics.
-- I work predominantly in Python and LaTeX
+- I work predominantly in Python and TeX
     - If you're an INSIGNEO member and would like INSIGNEO [LaTeX](https://www.latex-project.org/) / [Beamer](https://ctan.org/pkg/beamer) / [reveal.js](https://revealjs.com/) / [marp](https://marp.app/) themes please let me know. Available types listed below:
         - LaTeX : Thesis | Presentation | Poster
         - Reveal.js : Presentation
@@ -27,6 +27,21 @@
   <td>
     An extensible tool for automating the <a href="https://ct2s.insigneo.org/ct2s/"><alt>CT2S Pipeline</alt></a>. Allowing users to build and drop in personal scripts that allow others to perform finite element method analysis with minimal training.
     Time reductions of up to 70% have been seen from using the tool.
+  </td>
+</table>
+
+## My Guides
+
+### [Using LaTeX in Academia](https://haivuuk.github.io/LaTeX-Guides/)
+
+<table>
+  <td>
+    <a href="https://haivuuk.github.io/LaTeX-Guides">
+      <img src="https://haivuuk.github.io/LaTeX-Guides/images/logoadpat.svg" width="100%" alt="LaTeX Guide Logo">
+    </a>
+  </td>
+  <td>
+    This guide is designed to provide a good starting point for those looking to use LaTeX for academic writing. It is not intended to be a comprehensive guide, but rather a general purpose guide that will provide a good foundation for those looking to use LaTeX for academic writing and the transition from other word processing software.
   </td>
 </table>
 <!--
