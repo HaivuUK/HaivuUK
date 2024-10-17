@@ -21,7 +21,7 @@
 <table>
   <td>
     <a href="https://github.com/INSIGNEO/PyPeCT2S">
-      <img src="https://github.com/INSIGNEO/PyPeCT2S/blob/main/icons/big_logo.svg" width="100%" alt="PyPeCT2S Logo">
+      <img src="https://github.com/INSIGNEO/PyPeCT2S/blob/main/icons/big_logo.svg" width="800px" alt="PyPeCT2S Logo">
     </a>
   </td>
   <td>
@@ -37,7 +37,7 @@
 <table>
   <td>
     <a href="https://haivuuk.github.io/LaTeX-Guides">
-      <img src="https://github.com/HaivuUK/LaTeX-Guides/blob/gh-pages/images/logoadpat.svg" width="100%" alt="LaTeX Guide Logo">
+      <img src="https://github.com/HaivuUK/LaTeX-Guides/blob/main/docs/images/logo.svg" width="800px" alt="PyPeCT2S Logo">
     </a>
   </td>
   <td>
