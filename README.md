@@ -37,7 +37,7 @@
 <table>
   <td>
     <a href="https://haivuuk.github.io/LaTeX-Guides">
-      <img src="https://github.com/HaivuUK/LaTeX-Guides/blob/main/docs/images/logo.svg" width="800px" alt="PyPeCT2S Logo">
+      <img src="https://github.com/HaivuUK/LaTeX-Guides/blob/main/docs/images/logoadpat.svg" width="800px" alt="PyPeCT2S Logo">
     </a>
   </td>
   <td>
