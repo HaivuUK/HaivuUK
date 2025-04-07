@@ -36,9 +36,9 @@
 
 <table>
   <tr>
-  <td style='text-align:center; vertical-align:middle', width="250px">
+  <td align="center" vertical-align="middle" width="250px">
     <a href="https://github.com/HaivuUK/lua-regression">
-        <img src="https://github.com/user-attachments/assets/d3f437fc-84e2-4fb3-b1b7-873850c46909">
+        <img src="https://github.com/user-attachments/assets/d3f437fc-84e2-4fb3-b1b7-873850c46909" width="100px" alt="Lua Regression Logo">
     </a>
   </td>
   <td>
