@@ -22,7 +22,7 @@
   <tr>
   <td width="250px">
     <a href="https://github.com/INSIGNEO/PyPeCT2S">
-      <img src="https://github.com/INSIGNEO/PyPeCT2S/blob/main/icons/big_logo.svg" width="800px" alt="PyPeCT2S Logo">
+      <img src="https://github.com/INSIGNEO/PyPeCT2S/blob/main/icons/big_logo.svg" alt="PyPeCT2S Logo">
     </a>
   </td>
   <td>
@@ -38,7 +38,7 @@
   <tr>
   <td style='text-align:center; vertical-align:middle', width="250px">
     <a href="https://github.com/HaivuUK/lua-regression">
-     lua-regression
+        <img src="https://github.com/user-attachments/assets/d3f437fc-84e2-4fb3-b1b7-873850c46909">
     </a>
   </td>
   <td>
@@ -54,7 +54,7 @@
 <table>
   <td width="250px">
     <a href="https://haivuuk.github.io/LaTeX-Guides">
-      <img src="https://github.com/HaivuUK/LaTeX-Guides/blob/main/docs/images/logoadpat.svg" width="800px" alt="PyPeCT2S Logo">
+      <img src="https://github.com/HaivuUK/LaTeX-Guides/blob/main/docs/images/logoadpat.svg" alt="PyPeCT2S Logo">
     </a>
   </td>
   <td>
