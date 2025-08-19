@@ -47,6 +47,22 @@
   </tr>
 </table>
 
+
+### [Keyboard Layout Visualizer](https://github.com/HaivuUK/Keyboard-Layout-Visualizer) - A visualisation package for showing keyboard layouts
+
+<table>
+  <tr>
+  <td align="center" vertical-align="middle" width="250px">
+    <a href="https://github.com/HaivuUK/lua-regression">
+        <img src="https://github.com/user-attachments/assets/43b559a4-0f2d-4050-91bb-2d7f4c00147a" width="100px" alt="KLV Logo">
+    </a>
+  </td>
+  <td>
+    A LaTeX package for creating keyboard layouts akin to Keyboard Layout Editor. It supports ISO layouts, key rotation, column stagger, key cluster, and key cluster rotation. It allows for custom keyboard layout creation and has a range of predefined layouts available.
+  </td>
+  </tr>
+</table>
+
 ## My Guides
 
 ### [Using LaTeX in Academia](https://haivuuk.github.io/LaTeX-Guides/)
