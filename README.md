@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I am a Mechanical Engineering researcher with focus on Biomechanics.
-- I work predominantly in Python, Lua, and TeX
+- I work predominantly in Python, Lua, and TeX. I also know some rust.
     - If you're an INSIGNEO member and would like INSIGNEO [LaTeX](https://www.latex-project.org/) / [Beamer](https://ctan.org/pkg/beamer) / [reveal.js](https://revealjs.com/) / [marp](https://marp.app/) themes please let me know. Available types listed below:
         - LaTeX : Thesis | Presentation | Poster
         - Reveal.js : Presentation
@@ -9,12 +9,29 @@
 - Currently a member of:
   - [Integrated Musculo-Skeletal Biomechanics Research Group (IMSB)](https://www.sheffield.ac.uk/imsb).
   - [INSIGNEO Insitute for In-Silico Medicine](https://www.sheffield.ac.uk/insigneo) | [INSIGNEO GitHUB](https://github.com/INSIGNEO)
+ 
+- If you would like to find my other stuff, reach out, collaborate, or contact me please see my [carrd](haivu.carrd.co)
   
 - I take photos sometimes | [Photography Portfolio](https://wirestock.io/haivu)
 
 - I build custom keyboards | [Firmware Repository](https://github.com/HaivuUK/Keyboard_Software_Builds)
 
 ## My Projects
+
+### [LUMA](https://github.com/HaivuUK/LUMA) - Local Unit Modulus Assignment
+
+<table>
+  <tr>
+  <td align="center" vertical-align="middle" width="250px">
+    <a href="https://github.com/HaivuUK/LUMA">
+      <img src="https://github.com/HaivuUK/LUMA/blob/main/icons/icon.png" width="100px" alt="LUMA Logo">
+    </a>
+  </td>
+  <td>
+    A fast and modern tool for mapping material properties on from CT images on to finite element models. Built in rust and available with an AGPLv3+ license.
+  </td>
+  </tr>
+</table>
 
 ### [PyPeCT2S](https://github.com/INSIGNEO/PyPeCT2S) - Pythonic Paediatric Computed Tomography to Strength
 
