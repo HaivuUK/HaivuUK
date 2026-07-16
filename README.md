@@ -1,14 +1,14 @@
 ## Hi there 👋
 - I am a Mechanical Engineering researcher with focus on Biomechanics.
 - I work predominantly in Python, Lua, and TeX. I also know some rust.
-    - If you're an INSIGNEO member and would like INSIGNEO [LaTeX](https://www.latex-project.org/) / [Beamer](https://ctan.org/pkg/beamer) / [reveal.js](https://revealjs.com/) / [marp](https://marp.app/) themes please let me know. Available types listed below:
+    - If you're an INSIGNEO member and would like INSIGNEO [LaTeX](https://www.latex-project.org/) / [Beamer](https://ctan.org/pkg/beamer) or [ltx talk](https://ctan.org/pkg/ltx-talk) / [reveal.js](https://revealjs.com/) / [marp](https://marp.app/) themes please let me know. Available types listed below:
         - LaTeX : Thesis | Presentation | Poster
         - Reveal.js : Presentation
         - Marp : Presentation
 
 - Currently a member of:
   - [Integrated Musculo-Skeletal Biomechanics Research Group (IMSB)](https://www.sheffield.ac.uk/imsb).
-  - [INSIGNEO Insitute for In-Silico Medicine](https://www.sheffield.ac.uk/insigneo) | [INSIGNEO GitHUB](https://github.com/INSIGNEO)
+  - [Insigneo Insitute](https://www.sheffield.ac.uk/insigneo) | [INSIGNEO GitHUB](https://github.com/INSIGNEO)
  
 - If you would like to find my other stuff, reach out, collaborate, or contact me please see my [carrd](https://haivu.carrd.co)
   
