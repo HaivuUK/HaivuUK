@@ -5,6 +5,7 @@
         - LaTeX : Thesis | Presentation | Poster
         - Reveal.js : Presentation
         - Marp : Presentation
+        - Slidev : Presentation
 
 - Currently a member of:
   - [Integrated Musculo-Skeletal Biomechanics Research Group (IMSB)](https://www.sheffield.ac.uk/imsb).
